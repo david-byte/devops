@@ -30,4 +30,4 @@ Este script instala automaticamente o **Docker Engine**, **Docker Compose Plugin
 Execute o comando abaixo em seu terminal para instalar tudo automaticamente:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/david-byte/devops/refs/tags/v1.0.0/docker/install-docker.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/david-byte/devops/refs/tags/v1.0.1/docker/install-docker.sh | sudo bash
