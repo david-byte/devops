@@ -30,7 +30,7 @@ echo "✅ Docker instalado com sucesso!"
 docker --version
 
 echo "✅ Docker Compose instalado com sucesso!"
-docker compose --version
+docker compose version
 
 echo "👤 Adicionando o usuário '$USER' ao grupo 'docker'..."
 sudo usermod -aG docker "$USER"
